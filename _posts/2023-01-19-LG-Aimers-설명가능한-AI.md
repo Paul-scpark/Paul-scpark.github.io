@@ -1,5 +1,5 @@
 ---
-title: LG Aimers 2기 지도학습 - 딥러닝 (서울대학교 문태섭 교수님)
+title: LG Aimers 2기 Explainable AI (서울대학교 문태섭 교수님)
 date: 2023-01-19 00:00:00 +0900
 categories: [Education, LG Aimers 2기]
 tags: [AI, Deep learning, Machine learning]
