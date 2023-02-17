@@ -1,7 +1,7 @@
 ---
 title: ETL & Data Pipelines with Shell, Airflow and Kafka 4주차
 date: 2023-01-27 00:00:00 +0900
-categories: [Education, Coursera]
+categories: [Education, Coursera - Data Engineering]
 tags: [AI, Deep learning, Machine learning, Data Engineering, Airflow, Kafka, ETL, ELT]
 description: Coursera - ETL and Data Pipelines with Shell, Airflow and Kafka (IBM) 강의 요약
 toc: true
